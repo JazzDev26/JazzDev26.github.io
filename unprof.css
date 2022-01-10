@@ -1,0 +1,38 @@
+/* heading 1 styling begins */
+h1 {color:rgb(255, 70, 152);
+    font-family:cursive, Times, serif;
+    font-weight: 700;
+}
+/* heading 1 styling ends */
+
+/* titles styling begins*/
+.proftitle {font-size: small;
+    font-family:'Lucida Console', Times, serif;
+    font-style:italic;
+    font-variant:small-caps;
+    font-weight: lighter;
+    color:rgb(255, 70, 172)
+}
+/* tiles styling ends*/
+
+/*Jasmine Greene Heading styling */
+.profjazzindex{font-size:x-large; color:rgb(255, 70, 152); font-family:cursive, Arial, serif;}
+
+.profunderlinejazz {text-decoration: underline;}
+
+
+.profnavbar {font-family: cursive, arial, serif; color:rgb(255, 70, 152);}
+
+p.proflinks {font-family:'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(255, 70, 152);
+}
+
+h3.proflinks {color:rgb(255, 70, 152);}
+
+h1.proflinks {color:rgb(255, 70, 152);}
+
+h1.profhead {font-size:x-large; text-decoration:underline; color:rgb(72, 145, 255); font-family: cursive, 'Courier New', Courier, monospace;}
+
+h3.profbiohead {font-family:cursive, 'Times New Roman', Times, serif, Arial, sans-serif; font-size:medium; text-decoration: underline;}
+
+p.profbio {font-family:Georgia, 'Times New Roman', Times, serif, Arial, sans-serif; font-size:small;}
